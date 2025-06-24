@@ -1,0 +1,12 @@
+Cluster Summary (Corrected):
+         recency_norm  frequency_norm  monetary_norm customer_type
+cluster                                                           
+0               -0.57           -0.26          -0.30     Corporate
+1               -0.77            1.94           1.94   Home Office
+2                1.18           -0.47          -0.41     Corporate
+
+Cluster Sizes:
+cluster
+0    399
+2    270
+1    119

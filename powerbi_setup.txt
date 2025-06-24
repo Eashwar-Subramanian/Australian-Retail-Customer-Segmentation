@@ -1,0 +1,8 @@
+Power BI Dashboard Setup:
+- Load 'powerbi_data.csv' as the main table.
+- Create visuals:
+  - Bar Chart: Cluster sizes (X: cluster, Y: count).
+  - Scatter Plot: Recency_norm vs. monetary_norm (color by cluster).
+  - Table: Customer_type distribution per cluster.
+- Filters: Add cluster and customer_type for interactivity.
+- Save as 'Retail_Customer_Segmentation.pbix'.

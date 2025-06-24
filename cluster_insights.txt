@@ -1,0 +1,11 @@
+Cluster Insights:
+         recency_norm  frequency_norm  monetary_norm state order_priority  order_total($)
+cluster                                                                                  
+0               -0.57           -0.20          -0.24   NSW           High          959.96
+1               -0.75            1.97           1.81   NSW  Not Specified         1072.35
+2                1.18           -0.46          -0.34   NSW  Not Specified          762.88
+
+Interpretations:
+- Cluster 0: Occasional buyers, mostly from [state], prioritize [priority], avg order $[value].
+- Cluster 1: Loyal high-value, mostly from [state], prioritize [priority], avg order $[value].
+- Cluster 2: Churned, mostly from [state], prioritize [priority], avg order $[value].
