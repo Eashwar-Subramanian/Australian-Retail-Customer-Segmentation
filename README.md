@@ -4,11 +4,11 @@
 This project segments 788 retail customers after filtering (2018–2022) using RFM (Recency, Frequency, Monetary) analysis and K-Means clustering. The goal is to support targeted marketing, retention, and customer lifetime value insights through a Power BI dashboard.
 
 ## Dataset
-- **Source**: `dataaus.csv` (5,000 transactions, 789 unique customers)
+- **Source**: `dataaus.csv` (5,000 transactions, 788 unique customers)
 - **Cleaned Version**: `dataausclean.csv`
 
 ## Tech Stack: 
-Python (pandas, numpy, matplotlib, sklearn), Power BI
+Python (pandas, numpy, matplotlib, sklearn), Power BI, Jupyter Notebook
 
 ## Methodology
 1. **Data Cleaning**:
